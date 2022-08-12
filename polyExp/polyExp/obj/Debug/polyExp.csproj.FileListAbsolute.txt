@@ -1,0 +1,10 @@
+C:\Users\oguzh\Desktop\OOP\polyExp\polyExp\bin\Debug\polyExp.exe.config
+C:\Users\oguzh\Desktop\OOP\polyExp\polyExp\bin\Debug\polyExp.exe
+C:\Users\oguzh\Desktop\OOP\polyExp\polyExp\bin\Debug\polyExp.pdb
+C:\Users\oguzh\Desktop\OOP\polyExp\polyExp\obj\Debug\polyExp.csprojAssemblyReference.cache
+C:\Users\oguzh\Desktop\OOP\polyExp\polyExp\obj\Debug\polyExp.Form1.resources
+C:\Users\oguzh\Desktop\OOP\polyExp\polyExp\obj\Debug\polyExp.Properties.Resources.resources
+C:\Users\oguzh\Desktop\OOP\polyExp\polyExp\obj\Debug\polyExp.csproj.GenerateResource.cache
+C:\Users\oguzh\Desktop\OOP\polyExp\polyExp\obj\Debug\polyExp.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\Desktop\OOP\polyExp\polyExp\obj\Debug\polyExp.exe
+C:\Users\oguzh\Desktop\OOP\polyExp\polyExp\obj\Debug\polyExp.pdb
